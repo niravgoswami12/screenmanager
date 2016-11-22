@@ -25,5 +25,5 @@ Modify `config.js`
 	    }
 	}
 	`
- - Modify Mailer and mailOptions As per your need.
+ - Configure `mailer` and `mailOptions` as per your need.
 
