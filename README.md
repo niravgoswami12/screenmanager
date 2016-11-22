@@ -12,8 +12,8 @@ Modify `config.js`
 	 - `run` : "which file need to run"
 	 - `screenName` : "name your screen session"
 	 - `notify`: "notify   (true/false) by email if app stops"
-	 e.g.
-	 ```javascript
+		- e.g.
+	 `
 	{
 	    "appList": {
 		        "3333": {
@@ -24,6 +24,6 @@ Modify `config.js`
 		        }
 	    }
 	}
-	```
+	`
  - Modify Mailer and mailOptions As per your need.
 
